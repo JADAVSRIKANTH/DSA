@@ -25,7 +25,7 @@ public:
         vector<int> res(2,-1);
         if(!head || !head->next || !head->next->next)
           return res;
-        int p1=-1,p2=-1;
+        int firstp=-1,lastp=-1;
         int pos=0;
         ListNode* temp=head;
         temp=temp->next;
@@ -36,13 +36,13 @@ public:
         {
             if(criticalpoint(pre_value,temp->val,temp->next->val))
             {
-                if(p1==-1)
-                   p1=pos;
+                if(firstp==-1)
+                   firstp=pos;
             
                 else{
                     mindist=min(mindist,pos-pre_position);
                 }
-                p2=pos;
+                lastp=pos;
                 pre_position=pos;
             }
         
@@ -50,10 +50,10 @@ public:
          pre_value=temp->val;
          temp=temp->next;
         }
-        if(p1==-1|| p1==p2)
+        if(firstp==-1|| firstp==lastp)
           return res;
         res[0]=mindist;
-        res[1]=p2-p1;
+        res[1]=lastp-firstp;
         return res;
     }
 };
