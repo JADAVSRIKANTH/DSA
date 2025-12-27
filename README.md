@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/JADAVSRIKANTH/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0817-linked-list-components](https://github.com/JADAVSRIKANTH/DSA/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/JADAVSRIKANTH/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/JADAVSRIKANTH/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-linked-list-components](https://github.com/JADAVSRIKANTH/DSA/tree/master/0817-linked-list-components) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/JADAVSRIKANTH/DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
