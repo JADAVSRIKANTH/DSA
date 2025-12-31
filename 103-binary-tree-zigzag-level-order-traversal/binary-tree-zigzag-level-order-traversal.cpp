@@ -31,6 +31,7 @@ public:
 
                   reverse(d.begin(),d.end());
                   s.push_back(d);
+                  //s.insert(s.end(),d.begin(),d.end());
                 }
                 else
                 {
