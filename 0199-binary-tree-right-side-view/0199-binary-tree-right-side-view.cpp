@@ -15,7 +15,7 @@ public:
         vector<int> res;
         if(root==NULL)
           return res;
-        vector<int> s;
+        //vector<int> s;
         queue<TreeNode*> q;
         q.push(root);
         q.push(NULL);
@@ -26,7 +26,7 @@ public:
             q.pop();
             if(curr==NULL)
             {
-                s.insert(s.end(),d.begin(),d.end());
+                //s.insert(s.end(),d.begin(),d.end());
                 res.push_back(d.back());
                 d.clear();
                 if(!q.empty())
