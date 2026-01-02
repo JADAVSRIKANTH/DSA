@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/JADAVSRIKANTH/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JADAVSRIKANTH/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JADAVSRIKANTH/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/JADAVSRIKANTH/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/JADAVSRIKANTH/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JADAVSRIKANTH/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JADAVSRIKANTH/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/JADAVSRIKANTH/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0965-univalued-binary-tree) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/JADAVSRIKANTH/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JADAVSRIKANTH/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JADAVSRIKANTH/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/JADAVSRIKANTH/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/JADAVSRIKANTH/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JADAVSRIKANTH/DSA/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/JADAVSRIKANTH/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0965-univalued-binary-tree) |
