@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/JADAVSRIKANTH/DSA/tree/master/0198-house-robber) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/JADAVSRIKANTH/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0817-linked-list-components](https://github.com/JADAVSRIKANTH/DSA/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/JADAVSRIKANTH/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 ## Dynamic Programming
@@ -118,5 +119,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/JADAVSRIKANTH/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/JADAVSRIKANTH/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/JADAVSRIKANTH/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/JADAVSRIKANTH/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/JADAVSRIKANTH/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/JADAVSRIKANTH/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
