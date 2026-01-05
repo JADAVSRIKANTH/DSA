@@ -24,14 +24,14 @@ public:
                 while(temp->next!=NULL && temp->val==temp->next->val)
                      temp=temp->next;
                 prev->next=temp->next;
-                temp=temp->next;
+               // temp=temp->next;
             }
             else
             {
                 prev=temp;
-                temp=temp->next;
+                //temp=temp->next;
             }
-            //temp=temp->next;
+            temp=temp->next;
         }
        return dummy->next; 
     }
