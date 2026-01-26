@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/JADAVSRIKANTH/DSA/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/JADAVSRIKANTH/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2404-most-frequent-even-element](https://github.com/JADAVSRIKANTH/DSA/tree/master/2404-most-frequent-even-element) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/JADAVSRIKANTH/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-merge-in-between-linked-lists](https://github.com/JADAVSRIKANTH/DSA/tree/master/1669-merge-in-between-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/JADAVSRIKANTH/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JADAVSRIKANTH/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/JADAVSRIKANTH/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/JADAVSRIKANTH/DSA/tree/master/0012-integer-to-roman) |
 | [0817-linked-list-components](https://github.com/JADAVSRIKANTH/DSA/tree/master/0817-linked-list-components) |
 | [2404-most-frequent-even-element](https://github.com/JADAVSRIKANTH/DSA/tree/master/2404-most-frequent-even-element) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/JADAVSRIKANTH/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
