@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/JADAVSRIKANTH/DSA/tree/master/0198-house-robber) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/JADAVSRIKANTH/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0817-linked-list-components](https://github.com/JADAVSRIKANTH/DSA/tree/master/0817-linked-list-components) |
+| [0997-find-the-town-judge](https://github.com/JADAVSRIKANTH/DSA/tree/master/0997-find-the-town-judge) |
 | [1019-next-greater-node-in-linked-list](https://github.com/JADAVSRIKANTH/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2404-most-frequent-even-element](https://github.com/JADAVSRIKANTH/DSA/tree/master/2404-most-frequent-even-element) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/JADAVSRIKANTH/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/JADAVSRIKANTH/DSA/tree/master/0012-integer-to-roman) |
 | [0817-linked-list-components](https://github.com/JADAVSRIKANTH/DSA/tree/master/0817-linked-list-components) |
+| [0997-find-the-town-judge](https://github.com/JADAVSRIKANTH/DSA/tree/master/0997-find-the-town-judge) |
 | [2404-most-frequent-even-element](https://github.com/JADAVSRIKANTH/DSA/tree/master/2404-most-frequent-even-element) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/JADAVSRIKANTH/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3804-number-of-centered-subarrays](https://github.com/JADAVSRIKANTH/DSA/tree/master/3804-number-of-centered-subarrays) |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3804-number-of-centered-subarrays](https://github.com/JADAVSRIKANTH/DSA/tree/master/3804-number-of-centered-subarrays) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/JADAVSRIKANTH/DSA/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
