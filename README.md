@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/JADAVSRIKANTH/DSA/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/JADAVSRIKANTH/DSA/tree/master/0198-house-robber) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/JADAVSRIKANTH/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0435-non-overlapping-intervals](https://github.com/JADAVSRIKANTH/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0817-linked-list-components](https://github.com/JADAVSRIKANTH/DSA/tree/master/0817-linked-list-components) |
 | [0997-find-the-town-judge](https://github.com/JADAVSRIKANTH/DSA/tree/master/0997-find-the-town-judge) |
 | [1019-next-greater-node-in-linked-list](https://github.com/JADAVSRIKANTH/DSA/tree/master/1019-next-greater-node-in-linked-list) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/JADAVSRIKANTH/DSA/tree/master/0198-house-robber) |
+| [0435-non-overlapping-intervals](https://github.com/JADAVSRIKANTH/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Linked List
 |  |
 | ------- |
@@ -214,4 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/JADAVSRIKANTH/DSA/tree/master/0997-find-the-town-judge) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/JADAVSRIKANTH/DSA/tree/master/0435-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/JADAVSRIKANTH/DSA/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
