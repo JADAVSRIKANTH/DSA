@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/JADAVSRIKANTH/DSA/tree/master/0012-integer-to-roman) |
 | [0817-linked-list-components](https://github.com/JADAVSRIKANTH/DSA/tree/master/0817-linked-list-components) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/JADAVSRIKANTH/DSA/tree/master/0997-find-the-town-judge) |
 | [2404-most-frequent-even-element](https://github.com/JADAVSRIKANTH/DSA/tree/master/2404-most-frequent-even-element) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/JADAVSRIKANTH/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0965-univalued-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/JADAVSRIKANTH/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/1609-even-odd-tree) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0965-univalued-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/JADAVSRIKANTH/DSA/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0965-univalued-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/JADAVSRIKANTH/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/1609-even-odd-tree) |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JADAVSRIKANTH/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0965-univalued-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/JADAVSRIKANTH/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/1609-even-odd-tree) |
@@ -235,4 +240,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/JADAVSRIKANTH/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
