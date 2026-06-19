@@ -27,8 +27,8 @@ public:
             ListNode* gcdnode=new ListNode(gcdval);
             n1->next=gcdnode;
             gcdnode->next=n2;
-            n1=n2;
-            n2=n2->next; //n2=n2.next;
+            n1=n2; // move to next original node
+            n2=n2->next; 
         }  
         return head;
     }
