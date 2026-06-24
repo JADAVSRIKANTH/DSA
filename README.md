@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/JADAVSRIKANTH/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/JADAVSRIKANTH/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/JADAVSRIKANTH/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/JADAVSRIKANTH/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JADAVSRIKANTH/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/JADAVSRIKANTH/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0101-symmetric-tree) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JADAVSRIKANTH/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/JADAVSRIKANTH/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0101-symmetric-tree) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/JADAVSRIKANTH/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/JADAVSRIKANTH/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/JADAVSRIKANTH/DSA/tree/master/0012-integer-to-roman) |
+| [0096-unique-binary-search-trees](https://github.com/JADAVSRIKANTH/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JADAVSRIKANTH/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/JADAVSRIKANTH/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## String
