@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/JADAVSRIKANTH/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/JADAVSRIKANTH/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2404-most-frequent-even-element](https://github.com/JADAVSRIKANTH/DSA/tree/master/2404-most-frequent-even-element) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/JADAVSRIKANTH/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/JADAVSRIKANTH/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3804-number-of-centered-subarrays](https://github.com/JADAVSRIKANTH/DSA/tree/master/3804-number-of-centered-subarrays) |
 ## Dynamic Programming
