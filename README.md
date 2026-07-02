@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/JADAVSRIKANTH/DSA/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/JADAVSRIKANTH/DSA/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/JADAVSRIKANTH/DSA/tree/master/0204-count-primes) |
 | [0300-longest-increasing-subsequence](https://github.com/JADAVSRIKANTH/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/JADAVSRIKANTH/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0416-partition-equal-subset-sum](https://github.com/JADAVSRIKANTH/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/JADAVSRIKANTH/DSA/tree/master/0012-integer-to-roman) |
 | [0096-unique-binary-search-trees](https://github.com/JADAVSRIKANTH/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0204-count-primes](https://github.com/JADAVSRIKANTH/DSA/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JADAVSRIKANTH/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JADAVSRIKANTH/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/JADAVSRIKANTH/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/JADAVSRIKANTH/DSA/tree/master/0204-count-primes) |
 | [3804-number-of-centered-subarrays](https://github.com/JADAVSRIKANTH/DSA/tree/master/3804-number-of-centered-subarrays) |
 ## Graph Theory
 |  |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/JADAVSRIKANTH/DSA/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JADAVSRIKANTH/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/JADAVSRIKANTH/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
