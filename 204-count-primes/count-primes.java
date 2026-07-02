@@ -10,9 +10,12 @@ class Solution {
         }
         for(int k=2;k*k<n;k++)
         {
+            if(v[k])
+            {
             for(int j=k*k;j<n;j=j+k)
             {
                 v[j]=false;
+            }
             }
         }
         for(int i=0;i<n;i++)
