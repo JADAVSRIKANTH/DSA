@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/JADAVSRIKANTH/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/JADAVSRIKANTH/DSA/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JADAVSRIKANTH/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/JADAVSRIKANTH/DSA/tree/master/0836-rectangle-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JADAVSRIKANTH/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/JADAVSRIKANTH/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## String
@@ -290,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/JADAVSRIKANTH/DSA/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JADAVSRIKANTH/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/JADAVSRIKANTH/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/JADAVSRIKANTH/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
