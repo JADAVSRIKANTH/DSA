@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/JADAVSRIKANTH/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/JADAVSRIKANTH/DSA/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/JADAVSRIKANTH/DSA/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/JADAVSRIKANTH/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/JADAVSRIKANTH/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/JADAVSRIKANTH/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/JADAVSRIKANTH/DSA/tree/master/0012-integer-to-roman) |
+| [0264-ugly-number-ii](https://github.com/JADAVSRIKANTH/DSA/tree/master/0264-ugly-number-ii) |
 | [0817-linked-list-components](https://github.com/JADAVSRIKANTH/DSA/tree/master/0817-linked-list-components) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/JADAVSRIKANTH/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/JADAVSRIKANTH/DSA/tree/master/0997-find-the-town-judge) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/JADAVSRIKANTH/DSA/tree/master/0012-integer-to-roman) |
 | [0096-unique-binary-search-trees](https://github.com/JADAVSRIKANTH/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/JADAVSRIKANTH/DSA/tree/master/0204-count-primes) |
+| [0264-ugly-number-ii](https://github.com/JADAVSRIKANTH/DSA/tree/master/0264-ugly-number-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JADAVSRIKANTH/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/JADAVSRIKANTH/DSA/tree/master/0836-rectangle-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JADAVSRIKANTH/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -297,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/JADAVSRIKANTH/DSA/tree/master/0836-rectangle-overlap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/JADAVSRIKANTH/DSA/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
