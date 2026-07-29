@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/JADAVSRIKANTH/DSA/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/JADAVSRIKANTH/DSA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/JADAVSRIKANTH/DSA/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/JADAVSRIKANTH/DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/JADAVSRIKANTH/DSA/tree/master/0204-count-primes) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/JADAVSRIKANTH/DSA/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/JADAVSRIKANTH/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/JADAVSRIKANTH/DSA/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/JADAVSRIKANTH/DSA/tree/master/0264-ugly-number-ii) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/JADAVSRIKANTH/DSA/tree/master/0053-maximum-subarray) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/JADAVSRIKANTH/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Binary Indexed Tree
 |  |
