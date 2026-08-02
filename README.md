@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/JADAVSRIKANTH/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/JADAVSRIKANTH/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/JADAVSRIKANTH/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/JADAVSRIKANTH/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JADAVSRIKANTH/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/JADAVSRIKANTH/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2404-most-frequent-even-element](https://github.com/JADAVSRIKANTH/DSA/tree/master/2404-most-frequent-even-element) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/JADAVSRIKANTH/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/JADAVSRIKANTH/DSA/tree/master/0054-spiral-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/JADAVSRIKANTH/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
 |  |
 | ------- |
