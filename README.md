@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/JADAVSRIKANTH/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/JADAVSRIKANTH/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JADAVSRIKANTH/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/JADAVSRIKANTH/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2404-most-frequent-even-element](https://github.com/JADAVSRIKANTH/DSA/tree/master/2404-most-frequent-even-element) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/JADAVSRIKANTH/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/JADAVSRIKANTH/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/JADAVSRIKANTH/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/JADAVSRIKANTH/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/JADAVSRIKANTH/DSA/tree/master/1991-find-the-middle-index-in-array) |
 ## Matrix
 |  |
 | ------- |
